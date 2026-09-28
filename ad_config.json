@@ -23,9 +23,9 @@
     ]
   },
   "frequency_capping": {
-    "interstitial_min_interval_minutes": 5,
+    "interstitial_min_interval_minutes": 1,
     "banner_refresh_seconds": 60,
-    "max_interstitials_per_session": 3,
+    "max_interstitials_per_session": 6,
     "rewarded_daily_cap": 10
   },
   "targeting": {
