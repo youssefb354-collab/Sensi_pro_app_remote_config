@@ -29,7 +29,7 @@
     "rewarded_daily_cap": 10
   },
   "targeting": {
-    "min_os_version": "13.0",
+    "min_os_version": "15.0",
     "blocked_regions": [],
     "device_models_blacklist": []
   },
