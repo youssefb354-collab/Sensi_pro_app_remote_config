@@ -35,6 +35,6 @@
   },
   "fallback": {
     "use_bundled_config": true,
-    "kill_switch": false
+    "kill_switch": true
   }
 }
